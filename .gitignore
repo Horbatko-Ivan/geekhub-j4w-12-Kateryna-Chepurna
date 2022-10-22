@@ -2,6 +2,8 @@
 *.class
 /build
 /out
+/libs/
+.gradle
 
 # IntelliJ IDEA
 .idea
